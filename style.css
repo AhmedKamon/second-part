@@ -1,0 +1,87 @@
+body{
+    font-family: 'Merriweather', serif;
+    background: rgb(214, 255, 253);
+}
+img{
+    width: 500px;
+}
+.nav-link{
+    color: black;
+    font-weight: 700;
+    font-size: 18px;
+}
+nav ul li a:hover{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.colored-text{
+    color: orange;
+}
+.btn-color{
+    background-color: #9bb439;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    height: 50px;
+    width: 30%;
+    font-weight: 300;
+}
+.woman-text{
+    margin: 50px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card-footer{
+    justify-content: space-between;
+}
+.card{
+    border: 0;
+    background-color: #a3ffff; 
+    border-radius: 10px;
+}
+.card-footer{
+    border: 0;
+    background-color: #a3ffff;
+}
+.col{
+    justify-content: space-between;
+}
+.col-img{
+    height: 100px;
+    width: 100px;
+}
+.content{
+    align-content: space-between;
+}
+footer{
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 300;
+}
+.last-bg{
+    background: #a3ffff;
+}
+.card-title-l{
+    color: white;
+}
+.card-body-l{
+    background: black;
+    color: white;
+}
+.card-l{
+    background: black;
+}
+.card-footer-l{
+    background: black;
+}
+.last-text{
+    text-align: center;
+    letter-spacing: 10px;
+    font-weight: 900;
+    font-size: 20px;
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
